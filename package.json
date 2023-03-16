@@ -1,0 +1,19 @@
+{
+  "name": "pc07",
+  "version": "1.0.0",
+  "description": "PC07 - Công an tỉnh Tây Ninh website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongcntt96/pc07.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duongcntt96/pc07/issues"
+  },
+  "homepage": "https://github.com/duongcntt96/pc07#readme"
+}
