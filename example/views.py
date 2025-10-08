@@ -12,7 +12,7 @@ def index(request):
             <h1>Hello from Vercel!</h1>
             <p>The current time is { now }.</p>
             <p>Đặng Bá Dương</p>
-            <p>Nguyễn Thị Thu Hằng</p>
+            <p>Nguyễn Thị Huyền Trang</p>
         </body>
     </html>
     '''
